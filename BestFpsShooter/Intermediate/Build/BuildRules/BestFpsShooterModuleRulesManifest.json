@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\BestFpsShooter\\Source\\BestFpsShooter\\BestFpsShooter.Build.cs",
+		"D:\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\BestFpsShooter\\Source\\BestFpsShooter.Target.cs",
+		"D:\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\BestFpsShooter\\Source\\BestFpsShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
