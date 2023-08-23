@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\Private\\God.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\Private\\God.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShooters.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShooters.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShooters.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShootersGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShootersGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default\\SuperShooters.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]

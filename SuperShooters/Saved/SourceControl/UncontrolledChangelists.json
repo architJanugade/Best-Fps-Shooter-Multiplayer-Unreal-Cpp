@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/janug/Files/Github/UnrealEngine-Projects/Best-Fps-Shooter-Multiplayer-Unreal-Cpp/SuperShooters/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/janug/Files/Github/UnrealEngine-Projects/Best-Fps-Shooter-Multiplayer-Unreal-Cpp/SuperShooters/Content/Scenes/TestMap1.umap",
+				"C:/Users/janug/Files/Github/UnrealEngine-Projects/Best-Fps-Shooter-Multiplayer-Unreal-Cpp/SuperShooters/Content/Scenes/TestMap1_BuiltData.uasset",
+				"C:/Users/janug/Files/Github/UnrealEngine-Projects/Best-Fps-Shooter-Multiplayer-Unreal-Cpp/SuperShooters/Content/BlueprintClasses/Characters/MyGod.uasset",
+				"C:/Users/janug/Files/Github/UnrealEngine-Projects/Best-Fps-Shooter-Multiplayer-Unreal-Cpp/SuperShooters/Content/SuperShooterGameMode_BP.uasset"
+			]
+		}
+	]
+}

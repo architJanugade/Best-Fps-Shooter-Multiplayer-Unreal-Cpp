@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "SuperShootersEditor Editor Win64 Development (SuperShooters)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+			"includePath": [ "${workspaceFolder}\\Intermediate\\**", "[Workspace Folder]\\Plugins\\**", "[Workspace Folder]\\Source\\**" ],
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_SuperShooters.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters\\SuperShooters.Build.cs",
+		"C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShooters.Target.cs",
+		"C:\\Users\\janug\\Files\\Github\\UnrealEngine-Projects\\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\\SuperShooters\\Source\\SuperShootersEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
