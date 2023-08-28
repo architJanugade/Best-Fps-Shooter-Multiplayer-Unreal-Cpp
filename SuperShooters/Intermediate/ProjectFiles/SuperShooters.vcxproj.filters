@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\SuperShooters.uproject" />
@@ -11,11 +11,13 @@
     <None Include="..\..\Source\SuperShootersEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
-    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEditorSettings.ini">
@@ -30,17 +32,11 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Platforms">
-      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Platforms\HoloLens">
-      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Platforms\HoloLens\Config">
-      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
-      <Filter>Platforms\HoloLens\Config</Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\SuperShooters">
       <UniqueIdentifier>{D76A2AAD-E9B3-3BD3-A286-2408E448D265}</UniqueIdentifier>
@@ -54,20 +50,53 @@
     <ClInclude Include="..\..\Source\SuperShooters\SuperShooters.h">
       <Filter>Source\SuperShooters</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\SuperShooters\SuperShootersGameModeBase.cpp">
+    <ClCompile Include="..\..\Source\SuperShooters\SuperShootersCharacter.cpp">
       <Filter>Source\SuperShooters</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SuperShooters\SuperShootersGameModeBase.h">
+    <ClInclude Include="..\..\Source\SuperShooters\SuperShootersCharacter.h">
+      <Filter>Source\SuperShooters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperShooters\SuperShootersGameMode.cpp">
+      <Filter>Source\SuperShooters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperShooters\SuperShootersGameMode.h">
+      <Filter>Source\SuperShooters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperShooters\SuperShootersProjectile.cpp">
+      <Filter>Source\SuperShooters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperShooters\SuperShootersProjectile.h">
+      <Filter>Source\SuperShooters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperShooters\TP_PickUpComponent.cpp">
+      <Filter>Source\SuperShooters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperShooters\TP_PickUpComponent.h">
+      <Filter>Source\SuperShooters</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperShooters\TP_WeaponComponent.cpp">
+      <Filter>Source\SuperShooters</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperShooters\TP_WeaponComponent.h">
       <Filter>Source\SuperShooters</Filter>
     </ClInclude>
     <Filter Include="Source\SuperShooters\Private">
       <UniqueIdentifier>{CCB95054-B9AE-3C94-B231-3E3CBCC5EA73}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\SuperShooters\Private\God.cpp">
+    <ClCompile Include="..\..\Source\SuperShooters\Private\FPSPickableObject.cpp">
       <Filter>Source\SuperShooters\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SuperShooters\Private\God.h">
+    <ClCompile Include="..\..\Source\SuperShooters\Private\SuperGod.cpp">
       <Filter>Source\SuperShooters\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SuperShooters\Public">
+      <UniqueIdentifier>{F2101B02-A13B-3C31-A4FD-878BD999AE24}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SuperShooters\Public\FPSPickableObject.h">
+      <Filter>Source\SuperShooters\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SuperShooters\Public\SuperGod.h">
+      <Filter>Source\SuperShooters\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

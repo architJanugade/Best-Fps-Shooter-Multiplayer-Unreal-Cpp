@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\supershootersprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\supershooterseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\development\\supershooters\\definitions.supershooters.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\supershootersprojectile.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\inc\\supershooters\\supershootersprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

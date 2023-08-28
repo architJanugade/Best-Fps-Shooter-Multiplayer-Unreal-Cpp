@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\supershooterscharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\supershooterseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\development\\supershooters\\definitions.supershooters.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\supershooterscharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\inc\\supershooters\\supershooterscharacter.generated.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\supershootersprojectile.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\inc\\supershooters\\supershootersprojectile.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\inputsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

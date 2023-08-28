@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\inc\\supershooters\\fpspickableobject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\supershooterseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\development\\supershooters\\definitions.supershooters.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\source\\supershooters\\public\\fpspickableobject.h",
+            "c:\\users\\janug\\files\\github\\unrealengine-projects\\best-fps-shooter-multiplayer-unreal-cpp\\supershooters\\intermediate\\build\\win64\\unrealeditor\\inc\\supershooters\\fpspickableobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\janug\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp).
+  Building SuperShootersEditor...
+  Using Visual Studio 2022 14.36.32537 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from SuperShooters unity file: FPSPickableObject.cpp, SuperGod.cpp, SuperShooters.cpp, SuperShootersCharacter.cpp, SuperShootersGameMode.cpp, SuperShootersProjectile.cpp, TP_PickUpComponent.cpp, TP_WeaponComponent.cpp
+  Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+    Executing up to 4 processes, one per physical core
+    Requested 1.5 GB free memory per action, 2.34 GB available: limiting max parallel actions to 1
+  Building 4 actions with 1 process...
+  [1/4] Compile SuperGod.cpp
+C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Source\SuperShooters\Public\SuperGod.h(72): warning C4263: 'void ASuperGod::Crouch(void)': member function does not override any base class virtual member function
+C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Source\SuperShooters\Public\SuperGod.h(91): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+  C:\Program Files\Epic Games\UE_5.0\Engine\Source\Runtime\Engine\Classes\GameFramework\Character.h(781): note: see declaration of 'ACharacter::Crouch'
+  C:\Program Files\Epic Games\UE_5.0\Engine\Source\Runtime\Engine\Classes\GameFramework\Character.h(216): note: see declaration of 'ACharacter'
+  [2/4] Link UnrealEditor-SuperShooters.lib
+     Creating library C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Intermediate\Build\Win64\UnrealEditor\Development\SuperShooters\UnrealEditor-SuperShooters.lib and object C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Intermediate\Build\Win64\UnrealEditor\Development\SuperShooters\UnrealEditor-SuperShooters.exp
+  [3/4] Link UnrealEditor-SuperShooters.dll
+     Creating library C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Intermediate\Build\Win64\UnrealEditor\Development\SuperShooters\UnrealEditor-SuperShooters.suppressed.lib and object C:\Users\janug\Files\Github\UnrealEngine-Projects\Best-Fps-Shooter-Multiplayer-Unreal-Cpp\SuperShooters\Intermediate\Build\Win64\UnrealEditor\Development\SuperShooters\UnrealEditor-SuperShooters.suppressed.exp
+  [4/4] WriteMetadata SuperShootersEditor.target
+  Total time in Parallel executor: 12.13 seconds
+  Total execution time: 13.16 seconds
